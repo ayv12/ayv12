@@ -1,4 +1,4 @@
-- 👋 Hi, I’m ayushi labde
+- 👋 Hi, I’m Ayushi Labde
 - 👀 I’m interested in Cyber Security and Web Development
 - 🌱 I’m currently learning Javascript
 
