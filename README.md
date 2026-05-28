@@ -1,10 +1,17 @@
-- 👋 Hi, I’m Ayushi Labde
-- 👀 I’m interested in Cyber Security and Web Development
-- 🌱 I’m currently learning Javascript
+# 👋 Hi, I'm Ayushi Labde  
 
-  
+💻 First-year Computer Engineering student passionate about **Cyber Security** and **Web Development**  
+🔐 Exploring ethical hacking, digital security, and problem-solving  
+🌱 Currently learning **Networking** and improving my development skills  
+🚀 Building projects, learning consistently, and growing in tech every day  
+
+📫 How to reach me 
+
+   📧 Email: ayushilabde@gmail.com
 <!---
 - 📫 How to reach me 
+- 💼 LinkedIn: [Your LinkedIn Link]
+- 📧 Email: yourname@email.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
