@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ayushi Labde  
 
-💻 First-year Computer Engineering student passionate about **Cyber Security** and **Web Development**  
+💻 First-year Computer Engineering student passionate about **Cyber Security**  
 🔐 Exploring ethical hacking, digital security, and problem-solving  
 🌱 Currently learning **Networking** and improving my development skills  
 🚀 Building projects, learning consistently, and growing in tech every day  
