@@ -9,7 +9,11 @@
 
    📧 Email: ayushilabde@gmail.com
 
+## 🛠️ Tech Stack
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,js,git,github,vscode,linux,bash,mysql" />
+</p>
 <!---
 - 📫 How to reach me 
 - 💼 LinkedIn: [Your LinkedIn Link]
