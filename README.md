@@ -5,15 +5,23 @@
 🌱 Currently learning **Networking** and improving my development skills  
 🚀 Building projects, learning consistently, and growing in tech every day  
 
-📫 How to reach me 
+ <br>
 
-   📧 Email: ayushilabde@gmail.com
+
+# 📫 Connect With Me 
+
+   📧 Email: ayushilabde@gmail.com <br>
+   💼 LinkedIn: www.linkedin.com/in/ayushi-labde1206
+   
+ <br>
 
 ## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,js,git,github,vscode,linux,bash,mysql" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,github,vscode" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48" />
 </p>
+
 <!---
 - 📫 How to reach me 
 - 💼 LinkedIn: [Your LinkedIn Link]
