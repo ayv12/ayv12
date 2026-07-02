@@ -1,8 +1,9 @@
-# 👋 Hi, I'm Ayushi Labde  
+# 👋 Hi, I'm Ayushi Labde
+### Aspiring Offensive Security & Red Team Professional
 
 💻 First-year Computer Engineering student passionate about **Cyber Security**  
 🔐 Exploring ethical hacking, digital security, and problem-solving  
-🌱 Currently learning **Networking** and improving my development skills  
+🌱 Currently learning **Networking** and improving my **Python Scripting Skills**  
 🚀 Building projects, learning consistently, and growing in tech every day  
 
  <br>
@@ -15,6 +16,8 @@
    
  <br>
 
+ <!---
+
 ## 🛠️ Tech Stack
 
 <p align="left">
@@ -22,7 +25,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48" />
 </p>
 
-<!---
 - 📫 How to reach me 
 - 💼 LinkedIn: [Your LinkedIn Link]
 - 📧 Email: yourname@email.com
